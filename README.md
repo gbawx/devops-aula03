@@ -1,5 +1,6 @@
 # Ferramentas de controlde versão
 * Mercurial
-* GitHub
+* GitLab
 * Subversion
 * CVS
+
