@@ -1,4 +1,4 @@
-# Ferramentas de controlde versão
+# Ferramentas de controle de versão
 * Mercurial
 * Git
 * Subversion
